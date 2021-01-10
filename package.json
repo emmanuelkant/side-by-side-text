@@ -2,5 +2,8 @@
   "name": "side-by-side-code",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
 }
