@@ -4,7 +4,7 @@ const { readLineByLine, formatFiles } = require('./helpers/file');
 /**
  * Execute the outsie call. Can be catch two params from argv
  * -s that is a number and defines the width of text line
- * -c that is a number and defines length of space betwhen file lines
+ * -c that is a number and defines length of space between file lines
  *
  *
  */
